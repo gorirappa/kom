@@ -1,5 +1,3 @@
-import java.util.*;
-
 surukoto = new Array(
 "to get enough sleep",	"to solve the problem",	"to swim",	"to go to university",	"to book a hotel online",	"to stay here",	"to decide what to do",	"to eat",	"to travel around the world",	"to come to tomorrow's party",	"to study abroad",	"to save a seat"
 );	
